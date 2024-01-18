@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    border: 5px solid black;
+}
+div{
+    border: rgb(212, 212, 55) 0.125rem solid;
+    padding: 0rem 5rem 3.125rem 0rem
+}
